@@ -13,6 +13,7 @@ import Dashboard from './pages/Admin/Dashboard';
 import ProtectedRoute from './components/Auth/ProtectedRoute';
 import ScrollReveal from './components/ui/ScrollReveal';
 import { AuthProvider } from './context/AuthContext';
+import './index.css'; // Global styles including Tailwind
 
 // Scroll to top on route change wrapper
 const ScrollToTop = () => {
