@@ -37,7 +37,7 @@ const Contact: React.FC = () => {
                             <h3 className="text-gray-400 text-sm font-medium uppercase tracking-wider mb-2">Call Us</h3>
                             <div className="space-y-1">
                                 <a href="tel:+919288038926" className="block text-xl font-bold text-white hover:text-primary transition-colors">+91 9288038926</a>
-                                <a href="tel:+918051388125" className="block text-xl font-bold text-white hover:text-primary transition-colors">+91 8051388125</a>
+                                <a href="tel:+918051388125" className="block text-xl font-bold text-white hover:text-primary transition-colors">+91 7762994347</a>
                             </div>
                         </div>
                     </ScrollReveal>
