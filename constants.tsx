@@ -47,7 +47,7 @@ export const SERVICES: ServiceItem[] = [
     description: 'Comprehensive server setup, structured cabling, and Operations & Maintenance (O&M) for mission-critical infrastructure.',
     longDescription: 'Your data is your most valuable asset. sumPRO provides end-to-end datacenter lifecycle management. From the initial design of structured cabling to the installation of high-density server racks and 24/7 Operations & Maintenance (O&M), we ensure your physical infrastructure is robust. We handle cooling optimization, power redundancy planning, and physical security, guaranteeing maximum uptime for your critical applications.',
     icon: Server,
-    image: '../assets/datacenter.jpg',
+    image: 'https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=1634&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     features: [
       'Server Rack Installation & Configuration',
       'Structured Cabling (Fiber & Copper)',
