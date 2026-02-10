@@ -241,7 +241,7 @@ const Home: React.FC = () => {
       <section className="py-24 relative overflow-hidden z-20 bg-dark">
         <div className="absolute inset-0 z-0">
            <img 
-              src="https://images.unsplash.com/photo-1524178232363-1fb2b075b955?q=80&w=2070&auto=format&fit=crop" 
+              src="https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
               alt="Classroom"
               className="w-full h-full object-cover opacity-20"
            />
