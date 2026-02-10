@@ -13,7 +13,7 @@ const Contact: React.FC = () => {
         <ScrollReveal animation="fade-down">
             <div className="text-center mb-16 md:mb-20">
                 <h1 className="text-5xl md:text-7xl font-bold text-white tracking-tight mb-6">
-                    Let's <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-orange-500">Collaborate</span>
+                    Let's <span className="text-primary bg-clip-text bg-gradient-to-r from-primary to-orange-500">Collaborate</span>
                 </h1>
                 <p className="text-gray-400 text-xl max-w-2xl mx-auto font-light">
                     Ready to transform your business infrastructure? Reach out to us for consulting, support, or partnership opportunities.
